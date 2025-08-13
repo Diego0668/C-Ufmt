@@ -23,7 +23,6 @@ int main(){
     }
    
 
-    //if(valor_compra > 10){
-        
+    
     
 }
