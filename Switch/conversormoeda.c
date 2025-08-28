@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+
+//# <iso646.h>
+
 int main(){
 
     int moeda,valor;
