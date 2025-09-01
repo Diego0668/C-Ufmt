@@ -2,7 +2,7 @@
 
 
 int main (){
-    int n , maior , menor, contador = 0 
+    int n , maior , menor, contador = 0;
 
     
     printf("Digite o valor do n1\n");

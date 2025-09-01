@@ -1,6 +1,5 @@
 #include <stdio.h>
-#include <time.h>
-
+#include <unistd.h>
 int main (){
 
     int seg;
@@ -9,9 +8,13 @@ int main (){
     scanf("%d" , &seg);
 
     do{
-
-    }while{
+        seg --;
+        printf("%d\n" , seg);
+        sleep(1);
         
+
+    }while (seg > 0);{
+        printf("Fim");
     }
     
     
