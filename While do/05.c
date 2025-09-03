@@ -3,8 +3,8 @@
 #include <stdbool.h>  
 
 int main() {
-    char senha_principal[100];
-    char senha_confirmacao[100];
+    char senha_principal[50];
+    char senha_confirmacao[50];
 
     bool cadastro_sucesso = false;
 

@@ -8,8 +8,9 @@ int main() {
 
 
     do {
+       
     
-        printf("Por favor, digite a senha: ");
+        printf("Por favor, digite a senha: \n");
         fgets(senha_digitada, sizeof(senha_digitada), stdin);
         senha_digitada[strcspn(senha_digitada, "\n")] = '\0';
 
